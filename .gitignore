@@ -1,0 +1,9 @@
+# ignore venv
+.venv/
+# ignore pycache
+__pycache__/
+*.py[cod]
+# ignore imgs
+components/gps+picture_merger/imgs/
+components/gps+picture_merger/output/
+**/Imgs/
