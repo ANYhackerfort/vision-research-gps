@@ -7,3 +7,5 @@ __pycache__/
 components/gps+picture_merger/imgs/
 components/gps+picture_merger/output/
 **/Imgs/
+**/images_tiff
+**/meta
