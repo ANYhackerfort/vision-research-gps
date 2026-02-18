@@ -9,3 +9,6 @@ components/gps+picture_merger/output/
 **/Imgs/
 **/images_tiff
 **/meta
+**/converted-imgs/
+**/pictures/
+**/pose_viz_out/
